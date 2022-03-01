@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties gracious speech to both Houses of Parliament, on the 29th day of August 1660. At the passing of the act for free pardon, indempnity and oblivion, and several other acts. Published at the desire of the Lords in Parliament, and by his Majesties allowance. Whereunto is annexed the speech which the Speaker of the House of Commons made to the king in the House of Lord's, at his passing of the bills therein mentioned, August 29, 1660.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02072</idno>
+            <idno type="STC">Wing C3042A</idno>
+            <idno type="STC">ESTC R173764</idno>
+            <idno type="EEBO-CITATION">52614562</idno>
+            <idno type="OCLC">ocm 52614562</idno>
+            <idno type="VID">175796</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02072)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175796)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2751:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties gracious speech to both Houses of Parliament, on the 29th day of August 1660. At the passing of the act for free pardon, indempnity and oblivion, and several other acts. Published at the desire of the Lords in Parliament, and by his Majesties allowance. Whereunto is annexed the speech which the Speaker of the House of Commons made to the king in the House of Lord's, at his passing of the bills therein mentioned, August 29, 1660.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by Christopher Higgins,</publisher>
+                  <pubPlace>Edinburgh,</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial letters.</note>
+                  <note>Text in black letter.</note>
+                  <note>Imperfect: dark, print show-through with loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175796:1" rendition="simple:additions"/>
+            <pb facs="tcp:175796:1" rendition="simple:additions"/>
+            <p>His Majeſties GRACIOUS SPEECH TO BOTH HOUSES OF PARLIAMENT, On the 29. day of <hi>August,</hi> 1660. At the Paſſing of the ACT for <hi>FREE PARDON, INDEMPNITY</hi> and <hi>OBLIVION,</hi> And ſeveral other Acts.</p>
+            <p>P<g ref="char:V">Ʋ</g>bliſhed at the deſire of the Lords in Parliament, and by His Majeſties Allowance.</p>
+            <p>Whereunto is annexed the SPEECH Which the Speaker of the Houſe of Commons made to the KING In the Houſe of Lord's, at His Paſſing of the BILLS therein mentioned, <hi>Auguſt</hi> 29. 1660.</p>
+            <p>
+               <hi>Edinburgh,</hi> Re-printed by <hi>Chriſtopher Higgins,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:175796:2"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <pb n="3" facs="tcp:175796:2"/>
+            <head>His MAJESTIES Gracious SPEECH to both Houſes of Parliament on the 29. day of <hi>Auguſt</hi> 1660. at the paſsing of the Act of Free Pardon, Indemp<g ref="char:EOLhyphen"/>nity and Oblivion, and ſeveral other Acts.</head>
+            <opener>
+               <salute>My Lords and Gentlemen of the Houſe of Commons,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Have been here ſome times before with you, but never with more willingneſſe, than I am at this time: And there be few men in the Kingdom, who have longed more impatiently to have theſe Bills paſſed, than I have done to paſſe them, and I hope they will be the Foundation of much Security and Happineſſe to us all.</p>
+            <p>I do very willingly pardon all that is par<g ref="char:EOLhyphen"/>doned by this Act of Indempnity, to that time which is mentioned in the Bill; Nay, I will tell you, that from that time to this day I will
+<pb n="4" facs="tcp:175796:3"/>not uſe great ſeverity, except in ſuch caſes where the malice is notorious, and the publick Peace exceedingly concerned. But for the time to come, the ſame diſcretion and conſcience which diſpoſed me to the clemency I have ex<g ref="char:EOLhyphen"/>preſſed, which is moſt agreeable to my Nature, will oblige me to all rigor and ſeverity, how contrary ſoever it be to my Nature, towards thoſe who ſhall not now acquieſs, but continue to manifeſt their Sedition and diſlike of the Government, either in action or words. And I muſt conjure you all (My Lords and Gen<g ref="char:EOLhyphen"/>tlemen) to concur with me in this juſt and ne<g ref="char:EOLhyphen"/>ceſſary Severity; and that you will in your ſeveral Stations be ſo jealous of the publick Peace, and of my particular Honor, that you will cauſe exemplary juſtice to be done upon thoſe who are guilty of ſeditious Speeches, or Writings, as well as thoſe who break out into ſeditious Actions: And that you will believe thoſe who delight in reproaching and tradu<g ref="char:EOLhyphen"/>cing my Perſon, not to be well affected to you and the publick Peace. Never King valued himſelf more upon the affections of His people than I do; nor do I know a better way to make my ſelf ſure of your affections, than by
+<pb n="5" facs="tcp:175796:3"/>being juſt and kind unto you all: And whilſt I am ſo, I pray let the world ſee that I am poſſeſſed of your affections.</p>
+            <p>For your Pole-Bill, I do thank you as much as if the money were to come into my own Coffers; and wiſh with all my heart, that it may amount to as great a ſum as you reckon upon. If the work be well and orderly done to which it is deſigned, I am ſure I ſhall be the richer by it in the end; and upon my word, if I had whrewithall, I would my Self help you, ſo much I deſire the buſineſs done. I pray very earneſtly, as faſt as Money comes in, diſcharge that great burthen of the Navy, and disband the Army as faſt as you can, and till you can disband the reſt, make proviſion for their ſupport.</p>
+            <p>I do conjure you, as you love Me, let Me not hear the noiſe of Free-quarter, which will be imputed to My want of Care and Govern<g ref="char:EOLhyphen"/>ment, how innocent ſoever I am; and there<g ref="char:EOLhyphen"/>fore be ſure you prevent it.</p>
+            <p>I am ſo confident of your affections, that I will not move you in any thing that imme<g ref="char:EOLhyphen"/>diately relates to my Self, and yet I muſt tell you, I am not richer, that is, I have not ſo
+<pb n="6" facs="tcp:175796:4"/>much money in my Purſe as when I came to you; the truth is, I have lived principally ever ſince upon what I brought with Me, which was indeed your money; for you ſent it to Me, and I thank you for it. The weekly expence of the Navy, eats up all you have given Me by the Bill of Tonage and Poundage. Nor have I been able to give my Brothers one ſhilling ſince I came into <hi>England,</hi> nor to keep any Table in My Houſe but what I eat my Self. And that which troubles Me moſt, is, to ſee many of you come to Me to <hi>Whitehall,</hi> and to think that you muſt go ſome where elſe to ſeek your Dinner.</p>
+            <p>I do not mention this to you, as any thing that troubles Me, do but take care of the pub<g ref="char:EOLhyphen"/>lick, and for what is neceſſary for the peace and quiet of the Kingdom, and take your own time for my own particular, which I am ſure you will provide for with as much affection and franckneſſe as I can deſire.</p>
+         </div>
+         <div type="speech">
+            <pb n="7" facs="tcp:175796:4"/>
+            <head>The <hi>Speech</hi> which the <hi>SPEAKER</hi> of the Houſe of <hi>Commons</hi> made unto the King, the 29. of <hi>Auguſt,</hi> 1660.</head>
+            <opener>
+               <salute>Most Gracious Soveraign,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">N</seg>Ot many moneths ſince, <hi>Eng<g ref="char:EOLhyphen"/>land</hi> was but a great Priſon, where the worſt of men were our Governors, and their vil<g ref="char:EOLhyphen"/>eſt luſts the Laws by which they governed.</p>
+            <p>The great and moſt wiſe God, conveyed divine intelligence into Your patient and pious Soul, and taught You how by ſuffe<g ref="char:EOLhyphen"/>ring for us, to deliver us from our ſufferings; to knock off our ſhackles, and ſet Your peo<g ref="char:EOLhyphen"/>ple at liberty, when neither Power, nor Po<g ref="char:EOLhyphen"/>licy could effect it. So ſoon as Your Ma<g ref="char:EOLhyphen"/>jeſty ſet Your Foot upon Your Engliſh ſhore, our Priſon was turned into a Paradiſe
+<pb n="8" facs="tcp:175796:5"/>of pleaſure, and the whole Nation fill'd with Joy, and Love, and Peace.</p>
+            <p>
+               <hi>Sir,</hi> This great Bliſsing is already regi<g ref="char:EOLhyphen"/>ſtred in Your Peoples thankfull Hearts; and they deſire that the memory thereof might be perpetuated; and therefore they have laid it up amongſt their choiceſt jewels, and an<g ref="char:EOLhyphen"/>next it to their <hi>Magna Charta;</hi> which they are willing to pawn unto Your Majeſty, upon condition, when they forget this, to forfeit that and all.</p>
+            <p>
+               <hi>Sir,</hi> Amongſt Your many Illuſtrious Titles, which like fair and beautifull flowers do adorn and be-deck Your Royal Crown, there's one exceeds and excels all the reſt, as well in Vertue as in Beauty, and that is Your Title of <hi>Defender of the Faith. Sir,</hi> As that Title is Your Honor, ſo the truth of it, is our happineſs, Neither the higheſt Provo<g ref="char:EOLhyphen"/>cations, nor the ſtrongeſt temptations, that ever Prince met withall, have been able to
+<pb n="9" facs="tcp:175796:5"/>ſhake Your Victorious Faith, nor abate Your holy Zeal; witneſs Your firſt Act, af<g ref="char:EOLhyphen"/>ter Your return to the exerciſe of Your Re<g ref="char:EOLhyphen"/>gal Power, in Your early and timely ſup<g ref="char:EOLhyphen"/>preſsing Prophanenes, and diſcountenancing Debaucht perſons, who know not how to expreſſe their thankfulneſſe unto God for mercies, but by a ſinfull drinking them a<g ref="char:EOLhyphen"/>way, a practice Your Soul abhors.</p>
+            <p>And as it is Your higheſt Honor, to be the Defender of that Faith which we pro<g ref="char:EOLhyphen"/>feſs; ſo it is the greateſt intereſt, prerogative, and Priviledge Your Majeſty can be in<g ref="char:EOLhyphen"/>dowed and inveſted withall in this world, and will be Your moſt laſting comfort in the world to come, That God who hath hither<g ref="char:EOLhyphen"/>to been a Sun to direct You, will be a ſhield to protect You; and that Faith which You defend, will defend You againſt all Your enemies, maugre the malice of the Devil, and all his wicked inſtruments.</p>
+            <div type="speech_continued">
+               <pb n="10" facs="tcp:175796:6"/>
+               <opener>
+                  <salute>Royall Sir,</salute>
+               </opener>
+               <p>Your eminent Vertue, and thoſe excel<g ref="char:EOLhyphen"/>lent Qualifications that God hath beſtowed upon You, to make You every way worthy and fit for Government, invites us at this time, with joyful hearts, to make our humble addreſſes unto Your Majeſty, and to give You a chearfull accompt of our proceedings in this Parliam. wherein we have ſpent our whole time upon publick Bills; ſome we muſt confeſſe of very great concernment to Your Majeſty, and all Your People, are not yet ripe, nor brought to perfection: But though like an after-crop, yet with the fair weather of Your Majeſties wonted pati<g ref="char:EOLhyphen"/>ence, we hope likewiſe to Inn them well at laſt, to Your Majeſties full ſatisfaction, and the great contentment of all Your Loyall and Faithfull Subjects</p>
+               <p>Some Bills are paſſed both Houſes, and already lodged here, which attend and wait
+<pb n="11" facs="tcp:175796:6"/>for Your Majeſties Royal Aſſent, and I ſhall humbly beg the favor onely but to touch upon ſome of thoſe of moſt publick con<g ref="char:EOLhyphen"/>cernment, by the way, and <hi>in tranſitu,</hi> to that Bill here in my hand.</p>
+               <p>
+                  <hi>Sir,</hi> There is one Bill now before You, in<g ref="char:EOLhyphen"/>tituled, <hi>An Act for the Confirmation of Judici<g ref="char:EOLhyphen"/>all Proceedings;</hi> the ſcope and intendment of that Bill, is to ſettle Mens Eſtats, which is the way to quiet their minds; and when their minds are at reſt, there will be no fear of their breaking the Peace, or forfeiting their good-behavior any more in time to come.</p>
+               <p>There is another Bill, intituled, <hi>An Act to prevent the taking of Exceſsive <g ref="char:V">Ʋ</g>ſury.</hi> The reſtraining men of avaritious mindes, whoſe Conſciences are as large as their Bags, will be a great eaſe to Your People, and an inabl<g ref="char:EOLhyphen"/>ment to Your Merchants the better to go on with their Trades. They are the Laborious Bees that bring in Honey into your Maje<g ref="char:EOLhyphen"/>ſties
+<pb n="12" facs="tcp:175796:7"/>Hive; and Uſurers are the lazy, idle drones, that rob your Hive of the Honey.</p>
+               <p>There is another Bill, Entituled, <hi>An Act for a perpetuall Anniverſary Thanksgiving to be obſerved and kept upon the</hi> 29. <hi>of</hi> May: A day that God himſelf was pleaſed to honor and adorn with a new and additional Star, never ſeen before nor ſince; a Star of rare aſ<g ref="char:EOLhyphen"/>pect, which declar'd to all the world at once, the happy news of your Majeſties Bleſſed Nativity: And as it was your Majeſties Birth-day, ſo it was the day of your Reſtau<g ref="char:EOLhyphen"/>ration to your Kingdoms, Parliament, and People: And likewiſe the day of your Peoples re-Creation out of a <hi>Chaos</hi> of con<g ref="char:EOLhyphen"/>fuſion and miſery. And therfore they humb<g ref="char:EOLhyphen"/>ly pray, That not only we (for there would need no Act for that ſo long as we live) but that our poſterity, and the ages that ſhall ſucceed us, might for ever be obliedged to ſet a part that day, as a holy day, to dedicate
+<pb n="13" facs="tcp:175796:7"/>their Praiſes and thankſgivings up unto Al<g ref="char:EOLhyphen"/>mighty God for his miraculous Deliverance of this poor Nation, when it lay in duſt and aſhes, in a moſt miſerable, deſperate, forlorn and deplorable condition.</p>
+               <p>There is another Bill, Entituled, An <hi>Act of Free and General Pardon, Indempnity and Oblivion.</hi> It may well be called a Free Par<g ref="char:EOLhyphen"/>don: for Your Majeſty was pleaſed to offer it before we had confidence enough to ask it, and at a time when Your People had moſt need of it: And it may as truly be cal<g ref="char:EOLhyphen"/>led a General Pardon, in reſpect of the ex<g ref="char:EOLhyphen"/>tenſiveneſs of it. But looking over a long black, prodigious, diſmal Roll and Cata<g ref="char:EOLhyphen"/>logue of Malefactors, we there meet not with men, but Monſters guilty of Blood, Precious Blood, Precious Royal Blood, never to be remembered without tears; incomparable in all the kinds of Villany that ever was acted by the worſt of Miſ<g ref="char:EOLhyphen"/>creants,
+<pb n="14" facs="tcp:175796:8"/>perverters of Religion, ſubver<g ref="char:EOLhyphen"/>ters of Government, falſe to GOD, diſſoyal to the beſt of Kings, and perfidi<g ref="char:EOLhyphen"/>ous to their Countrey: And therefore we found an abſolute and indiſpenſable neceſ<g ref="char:EOLhyphen"/>ſity incumbent upon us, to except and ſet ſome apart for Treacle, to expel the poiſon of Sin and Rebellion out of others, and that they might be made ſacrifices to appeaſe Gods wrath, and ſatisfie Divine juſtice.</p>
+               <p>And now I am come to that Bill here in my hand, which I am commanded humbly to preſent Your Majeſty withall.</p>
+               <p>
+                  <hi>Royall Sir,</hi> Your Commons, the Knights, Citizens and Burgeſſes now aſſembled in Parliament, taking into conſideration the great and unſupportable Burden of the Ar<g ref="char:EOLhyphen"/>mies and Navy, that Your people do now groan under; and knowing, as Money is the ſinews of VVar, ſo as the Sate of Af<g ref="char:EOLhyphen"/>fairs now ſtand, that it is likewiſe the beſt
+<pb n="15" facs="tcp:175796:8"/>
+                  <hi>Medium</hi> that can be uſ'd, in order to the at<g ref="char:EOLhyphen"/>taining that end we have all ſo much de<g ref="char:EOLhyphen"/>ſired, and ſo long prayed for, The ſettle<g ref="char:EOLhyphen"/>ment of a happy Peace; and therefore they have paſſed this Bill, Entituled, <hi>An Act for a ſpeedy Proviſion of Money, to pay off and diſ<g ref="char:EOLhyphen"/>band all the Forces of this Kingdom both by Sea and Land,</hi> upon which they hope ſuch a Sum will be advanced and brought in, as may be ſufficient fully to diſcharge and diſ<g ref="char:EOLhyphen"/>patch that work. And they humbly pray Your Majeſties gracious acceptance there<g ref="char:EOLhyphen"/>of, and Your Royal aſſent thereunto.</p>
+               <p>I am further to inform and aſſure Your Majeſty, that Your people have paſſed an<g ref="char:EOLhyphen"/>other Supply and Revenue unto Your Ma<g ref="char:EOLhyphen"/>jeſty, which far ſurmounteth all they have already done in value, and that is, their Hearts and Affections; having their hearts, Your Majeſty may comand their purſes.</p>
+               <p>
+                  <hi>Moſt Royal Soveraign,</hi> VVe have no<g ref="char:EOLhyphen"/>thing
+<pb n="16" facs="tcp:175796:9" rendition="simple:additions"/>more to offer, or to ask at this time, but your Majeſties gracious favour, ſo ſoon as your Service, and the Publick Affairs will permit, that we might have leave to go into our Countries, where we ſhall make your people ſenſible of their happineſs, in having ſuch a King to govern and rule over them; and as we praiſe your Majeſty, ſo likewiſe to pray for your Majeſty, that you may Live long, and Reign proſperouſly.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
